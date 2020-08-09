@@ -6,8 +6,6 @@ BitCoin Wallet: 1JFMYXkUzwtsrx3L5HDvJ9G2QXnDCm5wvz
 
 Ethereum Wallet: 0xf2fCa59c1CAF7533FaB5eED88ECa3B161e1Bc5B3
 
-PayPal: mariana0407@outlook.pt
-
 **CREADITS**
 
 Script Owner: DeAdSeC
